@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Epitaph.Signaling", "Epitaph.Signaling\Epitaph.Signaling.csproj", "{E0A323DA-3327-441E-A040-496E2FA0DC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A323DA-3327-441E-A040-496E2FA0DC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A323DA-3327-441E-A040-496E2FA0DC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A323DA-3327-441E-A040-496E2FA0DC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A323DA-3327-441E-A040-496E2FA0DC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE108DA-99A2-4531-B736-77326A8F0705}
+	EndGlobalSection
+EndGlobal
