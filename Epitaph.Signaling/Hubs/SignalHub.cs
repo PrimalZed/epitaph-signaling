@@ -36,7 +36,7 @@ namespace Epitaph.Signaling.Hubs
         {
             if (!_roomsService.ValidateRoom(roomId, password))
             {
-                throw new UnauthorizedAccessException();
+                throw new HubException("Invalid room/password");
             }
 
             await JoinHelper(roomId);
